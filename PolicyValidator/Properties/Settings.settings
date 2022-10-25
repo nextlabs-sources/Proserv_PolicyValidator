@@ -1,0 +1,102 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PolicyValidator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="RootDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Nextlabs\Root</Value>
+    </Setting>
+    <Setting Name="Enovia_Resource_Type" Type="System.String" Scope="User">
+      <Value Profile="(Default)">portal</Value>
+    </Setting>
+    <Setting Name="Server_Resource_Type" Type="System.String" Scope="User">
+      <Value Profile="(Default)">fso</Value>
+    </Setting>
+    <Setting Name="SAP_Resource_Type" Type="System.String" Scope="User">
+      <Value Profile="(Default)">object</Value>
+    </Setting>
+    <Setting Name="Portal_Resource_Type" Type="System.String" Scope="User">
+      <Value Profile="(Default)">portal</Value>
+    </Setting>
+    <Setting Name="Filesystem_Resource_Type" Type="System.String" Scope="User">
+      <Value Profile="(Default)">fso</Value>
+    </Setting>
+    <Setting Name="JavaPC" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Timeout_S" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="PC_Port" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">9233</Value>
+    </Setting>
+    <Setting Name="PC_IP_Address" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.23.58.131</Value>
+    </Setting>
+    <Setting Name="Enovia_Action_Attributes" Type="System.String" Scope="User">
+      <Value Profile="(Default)">OPEN,CHECKOUT,CHECKIN,REMOVEFILE,CONNECT,DISCONNECT</Value>
+    </Setting>
+    <Setting Name="Enovia_Resource_Attributes" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ENOVIA-TYPE,ENOVIA-NAME,IP-ADDRESS</Value>
+    </Setting>
+    <Setting Name="Enovia_Subject_Attributes" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Server_Action_Attributes" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Server_Resource_Attributes" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Server_Subject_Attributes" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Sap_Action_Attributes" Type="System.String" Scope="User">
+      <Value Profile="(Default)">RUN,DELETE,SAP_COPY_FROM</Value>
+    </Setting>
+    <Setting Name="Sap_Resource_Attributes" Type="System.String" Scope="User">
+      <Value Profile="(Default)">EXPSECRTY,EXPORTLIC,CMPSECRTY,ECCN,USML,IP_SECRTY</Value>
+    </Setting>
+    <Setting Name="Sap_Subject_Attributes" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Filesystem_Action_Attributes" Type="System.String" Scope="User">
+      <Value Profile="(Default)">OPEN,RUN,COPY,MOVE,RENAME,DELETE</Value>
+    </Setting>
+    <Setting Name="Filesystem_Resource_Attributes" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Filesystem_Subject_Attributes" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Portal_Action_Attributes" Type="System.String" Scope="User">
+      <Value Profile="(Default)">UPLOAD,DOWNLOAD</Value>
+    </Setting>
+    <Setting Name="Portal_Resource_Attributes" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Portal_Subject_Attributes" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Connection_Check_Timeout_S" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="Database_Host" Type="System.String" Scope="User">
+      <Value Profile="(Default)">VM-MINH-PC</Value>
+    </Setting>
+    <Setting Name="Database_Port" Type="System.String" Scope="User">
+      <Value Profile="(Default)">270171</Value>
+    </Setting>
+    <Setting Name="Database_Collection" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PolicyValidator</Value>
+    </Setting>
+    <Setting Name="Database_User" Type="System.String" Scope="User">
+      <Value Profile="(Default)">pvadmin</Value>
+    </Setting>
+    <Setting Name="Database_Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Nextlabs123</Value>
+    </Setting>
+    <Setting Name="Database_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PolicyValidator</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
